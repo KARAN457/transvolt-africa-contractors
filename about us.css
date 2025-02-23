@@ -1,0 +1,111 @@
+body{
+    font-family:Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    height: 100%;
+    color: #333;
+}
+header{
+    background: #004d00;  
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.Apis img{
+    height: 250px;
+    padding-left:100px;
+    width: 250px;
+}
+.Apis h2{
+    color: white;
+    text-align: center;
+}
+Apis p{
+    padding-left:20px;
+    color: white;
+}
+.mission{
+    
+    border-style: groove;
+    height:250px;
+    width: 450px;
+    display: table-cell;
+    justify-content:space-between;
+    padding-left:20px;
+}
+.Apis btn{
+    background: yellow;
+    color: whhite;
+    font-size:24px;
+    font-weight:bold;
+    margin-left:25% ;
+    border-bottom-right-radius:33px ;
+    border-bottom-left-radius:33px ;
+    border-top-left-radius:33px ;
+    border-top-right-radius:33px ;
+}
+.Apis{
+    display: table-cell;
+    width:30%;
+    border-bottom-right-radius:33px ;
+    border-bottom-left-radius:33px ;
+    border-top-left-radius:33px ;
+    border-top-right-radius:33px ;
+    height:50%;
+    padding-left: 30px;
+    background:linear-gradient(rgb(21, 59, 21),rgb(10, 54, 54),rgb(12, 49, 12)) ;
+}
+.location{
+    display: table-cell;
+}
+p3{
+    color: white;
+}
+.hero{
+    background: linear-gradient(to bottom,#008000,#004d00);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    height: 100%;
+}
+.rose{
+background:linear-gradient(rgb(7, 36, 7),orange,rgb(1, 48, 1));
+}
+.content{
+    padding: 20px;
+    padding-left: 20px;
+    justify-content: space-around;
+    background:linear-gradient(navy,gold,white);
+    max-width:800px;
+    margin: auto;
+    gap: 34px;
+    border-bottom-right-radius:33px ;
+    border-bottom-left-radius:33px ;
+    border-top-left-radius:33px ;
+    border-top-right-radius:33px ;
+}
+.message{
+    border-style: solid;
+    padding-left:15px;
+    border-bottom-right-radius:33px ;
+    border-bottom-left-radius:33px ;
+    border-top-left-radius:33px ;
+    border-top-right-radius:33px ;
+}
+h2{
+    list-style-type:square;
+    padding: left 20px;
+}
+ul{
+    list-style-type:center;
+    padding-left: 20px;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color:black;
+    color: white;
+    border-bottom-right-radius:33px ;
+    border-bottom-left-radius:33px ;
+}
